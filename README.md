@@ -10,9 +10,9 @@ A --> C(Ажил олгогч)
 B --> D(Профайл)
 ```
 # Sitemap
-  ![Alt](src/main.png =60x50)
-  ![Alt](src/ajil_olgogc.png =60x50)
-  ![Alt](src/ajil_haigc.png =60x50)
+  ![Main](src/main.png = 60x50)
+  ![Ajil olgogch](src/ajil_olgogc.png = 60x50)
+  ![Ajil haigch](src/ajil_haigc.png = 60x50)
 
 # Файлууд
 ```
