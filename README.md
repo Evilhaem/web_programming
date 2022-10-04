@@ -10,9 +10,9 @@ A --> C(Ажил олгогч)
 B --> D(Профайл)
 ```
 # Sitemap
-  <img src="[Main](https://i.imgur.com/7FpOTx9.png)" width="500" />
-  <img src="[Main](https://i.imgur.com/fzeqbcd.png)" width="500" />
-  <img src="[Main](https://i.imgur.com/PqDZYKy.png)" width="500" />
+  ![Imgur](https://i.imgur.com/2TpIhBE.png)
+  ![Imgur](https://i.imgur.com/fzeqbcd.png)
+  ![Imgur](https://i.imgur.com/PqDZYKy.png)
 
 # Файлууд
 ```
@@ -22,4 +22,3 @@ B --> D(Профайл)
 
 ### Файл нэмэх:
 >Шинээр зураг, файл нэмэх бол харгалзах **folder** дотор заавал тайлбар өгч хадгална.
-
