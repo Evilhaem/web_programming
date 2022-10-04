@@ -10,9 +10,9 @@ A --> C(Ажил олгогч)
 B --> D(Профайл)
 ```
 # Sitemap
-  ![Imgur](https://i.imgur.com/2TpIhBE.png)
-  ![Imgur](https://i.imgur.com/fzeqbcd.png)
-  ![Imgur](https://i.imgur.com/PqDZYKy.png)
+  <img src="[Main](https://i.imgur.com/7FpOTx9.png)" width="500" />
+  <img src="[Main](https://i.imgur.com/fzeqbcd.png)" width="500" />
+  <img src="[Main](https://i.imgur.com/PqDZYKy.png)" width="500" />
 
 # Файлууд
 ```
