@@ -6,13 +6,20 @@
 ```mermaid
 graph LR
 A(Нүүр хэсгийн HTML) --> B(Ажил Хайгч HTML)
-A --> C(Round Rect)
+A --> C(Ажил олгогч)
+B --> D(Профайл)
 ```
+# Sitemap
+  ![Alt](src/main.png =60x50)
+  ![Alt](src/ajil_olgogc.png =60x50)
+  ![Alt](src/ajil_haigc.png =60x50)
 
 # Файлууд
-
- - Index.html - Үндсэн html
+```
+ Index.html - Үндсэн html
+ style.css 	- CSS
+ ```
 
 ### Файл нэмэх:
-> Шинээр зураг, файл нэмэх бол харгалзах **folder** дотор заавал тайлбар өгч хадгална.
+>Шинээр зураг, файл нэмэх бол харгалзах **folder** дотор заавал тайлбар өгч хадгална.
 
