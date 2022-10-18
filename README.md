@@ -17,24 +17,28 @@ index(Index.html)
  ```
 
 ### Файл нэмэх:
->Шинээр зураг, файл нэмэх бол харгалзах **folder** дотор заавал тайлбар өгч хадгална.
+Шинээр зураг, файл нэмэх бол харгалзах **folder** дотор заавал тайлбар өгч хадгална.
 
 ### Git дээр ажиллах:
 Github сайт руу орж **github desktop client** эсвэл **git** татаж суулгана. VSCode дээр plugin суулгаж ашигласан ч болно.
 **Code -> Open with Github Desktop** эсвэл bash command ашиглаж clone хийнэ. Download with ZIP хийж болохгүй.
->```git checkout main```
+
+```git checkout main```
 
 Branch хооронд шилжихэд хэрэглэнэ.
 
->```git fetch origin main```
+```git fetch origin main```
 
 Бусдынхаа хийсэн өөрчлөлтийг өөрийнхдөө оруулж ирнэ.
->```git commit -am “Comment"```
+
+```git commit -am “Comment"```
 
 Өөрчилсөн файлаа сонгож repo-д оруулахад бэлдэнэ.
->```git status```
+
+```git status```
 
 Оруулахад бэлдсэн файлуудаа харна.
->```git push```
+
+```git push```
 
 Файлуудаа upload хийнэ.
