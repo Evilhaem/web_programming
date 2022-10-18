@@ -1,3 +1,4 @@
+
 # Веб програмчлал
 Одоогийн байгаа веб сайт нь хэрэглээ нь хязгаарлагдмал зөвхөн компани нэвтрэх цэстэй байгаа. Ажил горьлогч хүмүүс заавал гар утасны аппликейшн татаж ажлын хүсэлт илгээх ба ажлын зарыг апп-аасаа харна. 
 
@@ -5,14 +6,9 @@
 # Diagrams
 ```mermaid
 graph LR
-A(Нүүр хэсгийн HTML) --> B(Ажил Хайгч HTML)
-A --> C(Ажил олгогч)
-B --> D(Профайл)
+index(Index.html)
+
 ```
-# Sitemap
-  ![Main](https://i.imgur.com/7FpOTx9.png)
-  ![Ajil olgogc](https://i.imgur.com/fzeqbcd.png)
-  ![Ajil haigc](https://i.imgur.com/PqDZYKy.png)
 
 # Файлууд
 ```
@@ -22,3 +18,23 @@ B --> D(Профайл)
 
 ### Файл нэмэх:
 >Шинээр зураг, файл нэмэх бол харгалзах **folder** дотор заавал тайлбар өгч хадгална.
+
+### Git дээр ажиллах:
+Github сайт руу орж **github desktop client** эсвэл **git** татаж суулгана. VSCode дээр plugin суулгаж ашигласан ч болно.
+**Code -> Open with Github Desktop** эсвэл bash command ашиглаж clone хийнэ. Download with ZIP хийж болохгүй.
+>```git checkout main```
+
+Branch хооронд шилжихэд хэрэглэнэ.
+
+>```git fetch origin main```
+
+Бусдынхаа хийсэн өөрчлөлтийг өөрийнхдөө оруулж ирнэ.
+>```git commit -am “Comment"```
+
+Өөрчилсөн файлаа сонгож repo-д оруулахад бэлдэнэ.
+>```git status```
+
+Оруулахад бэлдсэн файлуудаа харна.
+>```git push```
+
+Файлуудаа upload хийнэ.
